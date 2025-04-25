@@ -18,4 +18,19 @@ body {
     font-size: 64px;
     text-align: center;
   }
+
+  button {
+    margin-top: 4vmin;
+    padding: 2vmin;
+    font-size: 2vmin;
+    border-radius: 4vmin;
+    border: 0.1vmin solid grey;
+    color: grey;
+  }
+  
+  button:hover {
+    color: white;
+    background-color: darkgrey;
+    cursor: pointer;
+  }
   
